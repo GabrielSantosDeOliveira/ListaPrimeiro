@@ -1,0 +1,14 @@
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\obj\Debug\net8.0\5Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\obj\Debug\net8.0\5Operacoes.AssemblyInfoInputs.cache
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\obj\Debug\net8.0\5Operacoes.AssemblyInfo.cs
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\obj\Debug\net8.0\5Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\bin\Debug\net8.0\5Operacoes.exe
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\bin\Debug\net8.0\5Operacoes.deps.json
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\bin\Debug\net8.0\5Operacoes.runtimeconfig.json
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\bin\Debug\net8.0\5Operacoes.dll
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\bin\Debug\net8.0\5Operacoes.pdb
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\obj\Debug\net8.0\5Operacoes.dll
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\obj\Debug\net8.0\refint\5Operacoes.dll
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\obj\Debug\net8.0\5Operacoes.pdb
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\obj\Debug\net8.0\5Operacoes.genruntimeconfig.cache
+C:\Users\ADM\source\repos\ListaPrimeiro\5Operacoes\5Operacoes\obj\Debug\net8.0\ref\5Operacoes.dll

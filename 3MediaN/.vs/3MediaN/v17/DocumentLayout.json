@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADM\\source\\repos\\ListaPrimeiro\\3MediaN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D6B968-B714-4F7D-8176-DC59F723C952}|3MediaN\\3MediaN.csproj|c:\\users\\adm\\source\\repos\\listaprimeiro\\3median\\3median\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D6B968-B714-4F7D-8176-DC59F723C952}|3MediaN\\3MediaN.csproj|solutionrelative:3median\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\source\\repos\\ListaPrimeiro\\3MediaN\\3MediaN\\Program.cs",
+              "RelativeDocumentMoniker": "3MediaN\\Program.cs",
+              "ToolTip": "C:\\Users\\ADM\\source\\repos\\ListaPrimeiro\\3MediaN\\3MediaN\\Program.cs",
+              "RelativeToolTip": "3MediaN\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:29:32.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
